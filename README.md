@@ -2,4 +2,4 @@
 
 
 # Pi-Void
-personal blocklist My Pi-hole
+personal blocklist for My Pi-hole 🌟
