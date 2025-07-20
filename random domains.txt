@@ -1,5 +1,5 @@
 # -------------------------------------[INFO]---------------------------------------
-# Total number of network filters:59
+# Total number of network filters:70
 # Radom domains list
 # ------------------------------------[FILTERS]-------------------------------------
 0.0.0.0 sleeknotecustomerscripts.sleeknote.com
@@ -52,8 +52,19 @@
 0.0.0.0 pool.ntp.org
 0.0.0.0 x1.c.lencr.org
 0.0.0.0 g.bing.com
+0.0.0.0 associazionepensionaticariplo.it
+0.0.0.0 learn.jquery.com
+0.0.0.0 webredir.vip.gandi.net
+0.0.0.0 18f.org
+0.0.0.0 j00ru.vexillium.org
+0.0.0.0 www.boxofficemojo.com
 0.0.0.0 c.pki.goog
 0.0.0.0 ecs.office.com
 0.0.0.0 default.exp-tas.com
 0.0.0.0 pingback.giphy.com
 0.0.0.0 ocsp.edge.digicert.com
+0.0.0.0 stats.espncricinfo.com
+0.0.0.0 cbc.ca
+0.0.0.0 g.live.com
+0.0.0.0 h.live.com
+0.0.0.0 mirror.truenetwork.ru
