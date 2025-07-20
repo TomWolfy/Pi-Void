@@ -1,5 +1,5 @@
 # -------------------------------------[INFO]---------------------------------------
-# Total number of network filters:57
+# Total number of network filters:59
 # Radom domains list
 # ------------------------------------[FILTERS]-------------------------------------
 0.0.0.0 sleeknotecustomerscripts.sleeknote.com
@@ -56,3 +56,4 @@
 0.0.0.0 ecs.office.com
 0.0.0.0 default.exp-tas.com
 0.0.0.0 pingback.giphy.com
+0.0.0.0 ocsp.edge.digicert.com
