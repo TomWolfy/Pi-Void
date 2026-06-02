@@ -155,3 +155,16 @@
 0.0.0.0 x100000.vip
 0.0.0.0 x10000.club
 0.0.0.0 x10000.fun
+0.0.0.0 example.org
+0.0.0.0 examp1eb4nk.com
+0.0.0.0 examp1e.com
+0.0.0.0 examp1e.jp
+0.0.0.0 examp1e.net
+0.0.0.0 examp1e.org
+0.0.0.0 examp3.com
+0.0.0.0 examp78.com
+0.0.0.0 exampaasaa.com
+0.0.0.0 exampace.com
+0.0.0.0 exampacife.science
+0.0.0.0 mitch.ns.cloudflare.com
+0.0.0.0 katelyn.ns.cloudflare.com 
